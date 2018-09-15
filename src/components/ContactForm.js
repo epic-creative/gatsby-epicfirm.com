@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class ContactForm extends Component {
   render() {
     return (
-      <form method="post" action="#">
+      <form name="contact" netlify>
         <div className="fields">
           <div className="field">
             <label htmlFor="name">Name</label>
