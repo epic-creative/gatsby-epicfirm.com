@@ -1,0 +1,3 @@
+# Redirect default Netlify subdomain to primary domain
+http://www.epicfirm.com/* https://epicfirm.com/:splat 301!
+http://adoring-fermi-3059d4.netlify.com/* https://epicfirm.com/:splat 301!
