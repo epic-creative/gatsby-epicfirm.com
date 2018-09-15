@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Solid State
+  Epic Creative, Inc. - A Gatsby Starter Site
 </h1>
 
 Start your Gatsby project with this starter, based on [HTML5Up's](https://html5up.net) [Solid State](https://html5up.net/solid-state) theme.
